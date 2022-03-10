@@ -10,5 +10,87 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "documents":[
+    {
+    "id":1,
+    "docId":"3952a2f0-bc1a-11ea-9c8c-79c5a5e34770",
+    "fileName":"test_file","category":"Operations",
+    "subCategory":"Operations",
+    "tags":["programs","tutorial","newUser","etc"],
+    "favoritedBy":["stral","dibio"],
+    "isVideo":false,"videoLink":null,
+    "title":"Test File Name 1",
+    "createdAt":{"$date":"2022-03-09T04:12:20.529Z"},
+    "updatedAt":{"$date":"2022-03-09T04:12:20.529Z"},
+    "__v":0
+  },
+  {
+    "id":2,
+    "docId":"3952a2f0-bc1a-11ea-9c8c-79c5a5e34770",
+    "fileName":"test_file","category":"Operations",
+    "subCategory":"Operations",
+    "tags":["programs","tutorial","newUser","etc"],
+    "favoritedBy":["stral","dibio"],
+    "isVideo":false,"videoLink":null,
+    "title":"Test File Name 2",
+    "createdAt":{"$date":"2022-03-09T04:12:20.529Z"},
+    "updatedAt":{"$date":"2022-03-09T04:12:20.529Z"},
+    "__v":0
+  },
+  {
+    "id":3,
+    "docId":"3952a2f0-bc1a-11ea-9c8c-79c5a5e34770",
+    "fileName":"test_file","category":"Operations",
+    "subCategory":"Operations",
+    "tags":["programs","tutorial","newUser","etc"],
+    "favoritedBy":["stral","dibio"],
+    "isVideo":false,"videoLink":null,
+    "title":"Test File Name 3",
+    "createdAt":{"$date":"2022-03-09T04:12:20.529Z"},
+    "updatedAt":{"$date":"2022-03-09T04:12:20.529Z"},
+    "__v":0
+  },
+  {
+    "id":4,
+    "docId":"3952a2f0-bc1a-11ea-9c8c-79c5a5e34770",
+    "fileName":"test_file","category":"Operations",
+    "subCategory":"Operations",
+    "tags":["programs","tutorial","newUser","etc"],
+    "favoritedBy":["stral","dibio"],
+    "isVideo":false,"videoLink":null,
+    "title":"Test File Name 4",
+    "createdAt":{"$date":"2022-03-09T04:12:20.529Z"},
+    "updatedAt":{"$date":"2022-03-09T04:12:20.529Z"},
+    "__v":0
+  },
+  {
+    "id":5,
+    "docId":"3952a2f0-bc1a-11ea-9c8c-79c5a5e34770",
+    "fileName":"test_file","category":"Operations",
+    "subCategory":"Operations",
+    "tags":["programs","tutorial","newUser","etc"],
+    "favoritedBy":["stral","dibio"],
+    "isVideo":true,
+    "videoLink":null,
+    "title":"Test File Name 5",
+    "createdAt":{"$date":"2022-03-09T04:12:20.529Z"},
+    "updatedAt":{"$date":"2022-03-09T04:12:20.529Z"},
+    "__v":0
+  },
+  {
+    "id":6,
+    "docId":"3952a2f0-bc1a-11ea-9c8c-79c5a5e34770",
+    "fileName":"test_file","category":"Operations",
+    "subCategory":"Operations",
+    "tags":["programs","tutorial","newUser","etc"],
+    "favoritedBy":["stral","dibio"],
+    "isVideo":false,
+    "videoLink":null,
+    "title":"Test File Name 6",
+    "createdAt":{"$date":"2022-03-09T04:12:20.529Z"},
+    "updatedAt":{"$date":"2022-03-09T04:12:20.529Z"},
+    "__v":0
   }
+]
 }
