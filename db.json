@@ -92,5 +92,9 @@
     "updatedAt":{"$date":"2022-03-09T04:12:20.529Z"},
     "__v":0
   }
-]
+],
+"sections":[
+  {"id":1,"title":"Operation"},
+  {"id":2,"title":"Fleets"},
+  {"id":3,"title":"Technical Analyst"}]
 }
